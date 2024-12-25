@@ -1,0 +1,55 @@
+Chapters:
+  Chapter1 计算机发展历史与信息编码:
+    Section1: 了解计算工具的发展历程
+    Section2: 了解计算机的分类 
+    Section3: 理解理论发展对计算机发展的推动作用
+    Section4: 了解计算机的组成部分
+    Section5: 理解信息编码的基本原理
+  Chapter2 大模型在程序设计中的应用方法:
+    Section1: 重点：掌握大模型辅助程序设计的方法
+    Section2: 了解常见大模型应用的使用方法
+  Chapter3 C语言概述:
+    Section1: 重点：理解程序设计基本概念
+    Section2: 了解C程序结构
+  Chapter4 C语言数据类型及运算符:
+    Section1: 重点:C语言的基本数据类型
+    Section2: 理解C语言中的类型转换
+    Section3: 掌握C语言中的变量和常量
+    Section4: 掌握C语言中运算符的用法
+  Chapter5 C语言中的程序结构:
+    Section1: 重点:C语言的三种基本结构(顺序/循环/分支)
+    Section2: 掌握结构化程序设计的基本方法
+  Chapter6 实验1 结构化程序设计:
+    Section1: 开发环境配置和程序调试方法
+    Section2: 循环和分支结构的使用
+  Chapter7 C语言函数:
+    Section1: 重点：函数的定义、函数原型、函数参数和函数的返回值、函数的调用
+    Section2: 了解C语言标准库
+  Chapter8 实验2 函数的应用:
+    Section1: 利用函数实现代码的模块化
+  Chapter9 C语言中的数组及字符串:
+    Section1: 重点：一维数组及字符数组的定义
+    Section2: 难点：数组作为函数参数的处理，字符和字符串的基本知识
+    Section3: 了解二维数组的定义
+  Chapter10 C语言中的结构体和枚举类型:
+    Section1: 重点：结构体类型的定义和使用；枚举类型的定义
+    Section2: 难点：结构体数组的定义和使用
+  Chapter11 实验3 数组和结构体的应用:
+    Section1: 数组的定义与使用，结构体的定义与使用
+    Section2: 字符数组和结构体数组的使用
+  Chapter12 C语言中的指针类型:
+    Section1: 重点：指针的概念
+    Section2: 掌握指针变量的声明和初始化
+    Section3: 掌握指针运算符，指针表达式和指针的算术运算
+    Section4: 理解指针和数组、指针与结构体的关系
+    Section5: 难点：理解字符指针、字符数组和字符串的关系
+    Section6: 理解内存动态分配
+  Chapter13 C语言中的文件及相关操作:
+    Section1: 重点：文件概念
+    Section2: 难点：文件类型指针
+    Section3: 掌握文件的常见打开模式，以及文件的关闭方法
+    Section4: 了解常用文件读写库函数的使用方法
+  Chapter14 实验4 指针与文件的应用:
+    Section1: 基于指针对数据的操作
+    Section2: 文件的打开和关闭、文件读写
+

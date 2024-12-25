@@ -1,0 +1,14 @@
+# Core dependencies
+python-dotenv==1.0.1 # For environment variable management
+termcolor   # For terminal output styling
+
+
+# LangGraph and LangChain libraries
+langgraph  # Custom graph utilities (update version as needed)
+langchain-community  # Community extensions
+langchain-core        # Core components for LangChain functionality
+
+dashscope
+
+# Packages for display and formatting
+rich     # rich terminal output and formatting
