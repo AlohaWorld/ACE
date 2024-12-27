@@ -26,7 +26,7 @@
 2. 创建虚拟环境并安装依赖(需要你提前安装Anaconda)：
    ```bash
    conda create -n ACE python=3.11 -y
-   conda activate learning-assistant
+   conda activate ACE
    pip install -r requirements.txt
    ```
 
